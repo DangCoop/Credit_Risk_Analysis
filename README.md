@@ -1,5 +1,7 @@
 # Credit Risk Analysis 
 ____
+![](/Images/Front1.jpeg)
+
 ***Utilized several machine learning models to predict credit risk using Python's imbalanced-learn and scikit-learn libraries***
 
 ## Supervised Machine Learning: Overview of the analysis
@@ -49,7 +51,7 @@ The results for all six machine learning algorithms are shown below with their o
 ![](/Images/SMOTE%20Oversampling%20Balanced%20Acc_Score.png)
 
 - Precision: 0.01 of high risk applications were predicted and actually correct.
-Recall: 0.55 of actual high risk applications identified correctly.
+- Recall: 0.55 of actual high risk applications identified correctly.
 ![](/Images/SMOTE%20Oversampling%20Imbalanced%20Class_report.png)
 
 ## Cluster Centroids Undersampling
@@ -99,3 +101,9 @@ However, in a scenario where limited to the options above, I'd recommend the Eas
 It is important to note that its F1 score of 0.16 is significantly higher than the other models as highlighted in the Classification Reports. F1 score is a weighted average of the true positive rate (recall) and precision, where the best score is 1.0 and the worst is 0.0.
 
 There's usually a trade-off between sensitivity and precision and a balance must be struck between the two. A useful way to think about the F1 score is that a pronounced imbalance between sensitivity and precision will yield a low F1 score. While 0.16 is low, it is up to 8 times higher than the other models in this case. Hence, of the options above, most favored to predict high risk loan applications.
+___
+![](/Images/Back.jpeg)
+
+```Denis Antonov 10.24.2022```
+
+```Contact: antonov.resu@gmail.com```
